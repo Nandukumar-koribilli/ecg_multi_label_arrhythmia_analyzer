@@ -67,4 +67,4 @@ The application expects CSV files with the following format:
 
 **STRICTLY FOR CLINICAL RESEARCH USE ONLY**
 
-This tool is designed for research purposes and should not be used for actual medical diagnosis or treatment decisions. Always consult with qualified medical professionals for patient care.
+This tool is designed for research purposes and should not be used for actual medical diagnosis or treatment decisions. 
